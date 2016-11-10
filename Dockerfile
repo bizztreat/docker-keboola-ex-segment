@@ -1,5 +1,5 @@
 # VERSION 1.0
-FROM bizztreat/docker-ruby-keboola-gd
+FROM bizztreat/docker-keboola-ruby-aws
 MAINTAINER Jiri Tobolka <jiri.tobolka@bizztreat.com>
 
 WORKDIR /home
